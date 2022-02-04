@@ -6,3 +6,5 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 ssh-add "private key"
 ssh git@github.com
 git pull origin master --allow-unrelated-histories
+
+https://academic-accelerator.com/Subcategory/Theoretical-Computer-Science
